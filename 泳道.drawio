@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T08:22:25.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="tzLuzw404R9tV2XjWlLc" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T03:10:08.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="orqK7D-2wXOfmCVnFxb2" version="24.4.10" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2026" dy="1119" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="1178" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
         <mxCell id="HQkXqwJiE7lIhquMHrxb-513" value="求解器脚本" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KtcSYUMauYDlxE6MzYY9-48">
           <mxGeometry x="69.43999999999977" y="622" width="92.12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KtcSYUMauYDlxE6MzYY9-49" value="交互界面模块&lt;br&gt;（图形显示、前端操作、数据实时交互）" style="swimlane;startSize=30;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KtcSYUMauYDlxE6MzYY9-1" vertex="1">
+        <mxCell id="KtcSYUMauYDlxE6MzYY9-49" value="界面交互模块&lt;br&gt;（图形显示、前端操作、数据实时交互）" style="swimlane;startSize=30;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KtcSYUMauYDlxE6MzYY9-1" vertex="1">
           <mxGeometry x="858" y="20" width="220" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="HQkXqwJiE7lIhquMHrxb-2" value="移动缩放旋转等几何操作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KtcSYUMauYDlxE6MzYY9-49">
